@@ -66,7 +66,7 @@ The metrics of this model are reported by the original authors and are provided
 for reference only. No additional training was performed.
 
 
-## Notes for recruiters
+## Notes
 This project was developed as a Master's Thesis (TFM). The repository focuses on:
 - System integration (sensing, inference, control)
 - Reproducible deployment and clear documentation

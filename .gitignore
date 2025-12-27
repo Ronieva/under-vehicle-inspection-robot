@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+.env
+
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
+
+# Data / logs
+data/
+*.log
+
+# Large binaries (optional)
+*.bag
+*.mp4
+
+# If you do NOT want to commit models, uncomment the next line
+# models/*.onnx

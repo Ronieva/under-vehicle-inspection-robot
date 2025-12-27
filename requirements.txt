@@ -1,0 +1,6 @@
+flask
+numpy
+opencv-python
+pyrealsense2
+pyserial
+openvino

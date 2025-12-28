@@ -40,6 +40,12 @@ Open:
 ## Teleoperation API
 - `POST /cmd` JSON: `{ "accion": "adelante" }`
 - `GET  /estado_plataforma` returns relative pose and IMU info
+  
+## Mobile Teleoperation App
+
+The Android teleoperation application is available as a GitHub Release:
+
+👉 https://github.com/Ronieva/under-vehicle-inspection-robot/releases
 
 ## Models
 By default the server expects:
